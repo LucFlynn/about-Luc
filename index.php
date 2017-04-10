@@ -2,11 +2,7 @@
 <html>
 
 	<head>
-		<style>
-			body {
-				background-image: url("images/seagulls.jpg");
-			}
-		</style>
+		<link rel="stylesheet" href="styles.css">
 		<title>"About"</title>
 	</head>
 		<body>
