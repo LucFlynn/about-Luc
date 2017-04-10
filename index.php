@@ -5,7 +5,7 @@
 	</head>
 		<body>
 		<p>
-			Why won't you work
+			This is the page about me! My favorite subject.
 		</p>
 	</body>
 
