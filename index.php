@@ -4,7 +4,7 @@
 		<title>"About"</title>
 	</head>
 		<body>
-			<p> img src="images/about-luc.jpg" alt="Luc pic"></p>
+			<p> img src="about-luc/about-luc.jpg" alt="Luc pic"></p>
 		<p>
 			This is the page about me! My favorite subject.
 		</p>
