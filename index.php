@@ -4,7 +4,7 @@
 	<head>
 		<title>"About"</title>
 	</head>
-		<body>
+		<body style="background-image: url(images/seagulls.jpg)">
 			<img src="images/luc.png" height="550" width="450" alt="about-luc">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/U9t-slLl30E" frameborder="0" allowfullscreen></iframe>
 		<p>
