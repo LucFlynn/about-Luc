@@ -2,10 +2,11 @@
 <html>
 	<head>
 		<title>"About"</title>
+	</head>
 		<body>
 		<p>
 			Lets go!
 		</p>
 	</body>
-	</head>
+
 </html>
